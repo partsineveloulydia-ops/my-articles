@@ -225,3 +225,11 @@ figcaption {
   color: #bbb;
   font-family: Arial, Helvetica, sans-serif;
 }
+/* στυλ για την εικόνα της Βουλής */
+.article-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 12px; /* Αυτό κάνει τις γωνίες στρογγυλές */
+    margin-bottom: 10px;
+}
