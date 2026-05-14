@@ -131,11 +131,12 @@ a {
 
 /* ── Pull quote ── */
 .pull-quote {
-  border-top: 2px solid #111;
-  border-bottom: 2px solid #111;
+  border-top: 3px solid ##2c3e50;
+  border-bottom: 3px solid ##2c3e50;
   margin: 32px 0;
   padding: 20px 0;
   text-align: center;
+  colour: #2c3e50;
 }
 
 .pull-quote p {
@@ -155,9 +156,9 @@ a {
 
 /* ── Fact box ── */
 .fact-box {
-  background: #f7f5ef;
-  border-left: 3px solid #111;
-  padding: 16px 20px;
+  background: #f8f9fa;
+  border-left: 6px solid #d4af37;
+  padding: 20px;
   margin: 28px 0;
 }
 
