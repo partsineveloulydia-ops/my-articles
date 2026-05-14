@@ -233,3 +233,10 @@ figcaption {
     border-radius: 30px; 
     margin-bottom: 10px;
 }
+body {
+    background-color: #f9f7f2 !important;
+}
+
+.main-content, .article-container {
+    background-color: #f9f7f2 !important;
+}
