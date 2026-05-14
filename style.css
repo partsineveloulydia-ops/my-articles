@@ -232,11 +232,10 @@ figcaption {
     height: auto;
     border-radius: 30px; 
     margin-bottom: 10px;
-}
 body {
-    background-color: #f0ede6 !important;
+    background-color: #e9eef2 !important; /* Ένα πολύ κομψό γκρι του "πάγου" */
 }
 
 .article-container, .main-content {
-    background-color: #f0ede6 !important;
+    background-color: #e9eef2 !important;
 }
