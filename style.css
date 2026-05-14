@@ -238,4 +238,10 @@ body {
 
 .article-container, .main-content {
     background-color: #e9eef2 !important;
+  
+  .article-body {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05); /* Ένα ανεπαίσθητο σινεδάκι */
 }
