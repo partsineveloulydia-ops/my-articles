@@ -230,6 +230,6 @@ figcaption {
     display: block;
     width: 100%;
     height: auto;
-    border-radius: 12px; /* Αυτό κάνει τις γωνίες στρογγυλές */
+    border-radius: 30px; 
     margin-bottom: 10px;
 }
